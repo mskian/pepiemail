@@ -1,4 +1,4 @@
-# pepiemail
+# Pepiemail
 
 Send Pepipost Email Using Nodemailer
 
