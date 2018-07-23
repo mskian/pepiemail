@@ -1,11 +1,10 @@
 # Pepiemail
 
-Send Pepipost Email Using Nodemailer
-
+<p>Send Pepipost Email Using Nodemailer</p>
 
 ## Requirements
 
-- Node.js
+- Node.js (Latest Stable Version)
 - Pepipost Account
 
 ```
@@ -14,5 +13,3 @@ cd pepiemail
 npm install
 node sendmail.js
 ```
-
-
